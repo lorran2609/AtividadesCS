@@ -1,0 +1,17 @@
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\bin\Debug\net10.0-windows\aula1-forms.exe
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\bin\Debug\net10.0-windows\aula1-forms.deps.json
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\bin\Debug\net10.0-windows\aula1-forms.runtimeconfig.json
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\bin\Debug\net10.0-windows\aula1-forms.dll
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\bin\Debug\net10.0-windows\aula1-forms.pdb
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\aula1-forms.csproj.GenerateResource.cache
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\aula1-forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\aula1-forms.AssemblyInfoInputs.cache
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\aula1-forms.AssemblyInfo.cs
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\aula1-forms.csproj.CoreCompileInputs.cache
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\aula1-forms.dll
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\refint\aula1-forms.dll
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\aula1-forms.pdb
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\aula1-forms.genruntimeconfig.cache
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\ref\aula1-forms.dll
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\aula1_forms.formAula01.resources
+D:\DDS3\lorran\C#\aula1-forms\aula1-forms\obj\Debug\net10.0-windows\aula1_forms.FormCalcular.resources
