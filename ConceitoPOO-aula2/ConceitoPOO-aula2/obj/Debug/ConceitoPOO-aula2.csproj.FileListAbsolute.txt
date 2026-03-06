@@ -1,0 +1,7 @@
+D:\DDS3\lorran\C#\ConceitoPOO-aula2\ConceitoPOO-aula2\obj\Debug\ConceitoPOO-aula2.csproj.AssemblyReference.cache
+D:\DDS3\lorran\C#\ConceitoPOO-aula2\ConceitoPOO-aula2\obj\Debug\ConceitoPOO-aula2.csproj.CoreCompileInputs.cache
+D:\DDS3\lorran\C#\ConceitoPOO-aula2\ConceitoPOO-aula2\bin\Debug\ConceitoPOO-aula2.exe.config
+D:\DDS3\lorran\C#\ConceitoPOO-aula2\ConceitoPOO-aula2\bin\Debug\ConceitoPOO-aula2.exe
+D:\DDS3\lorran\C#\ConceitoPOO-aula2\ConceitoPOO-aula2\bin\Debug\ConceitoPOO-aula2.pdb
+D:\DDS3\lorran\C#\ConceitoPOO-aula2\ConceitoPOO-aula2\obj\Debug\ConceitoPOO-aula2.exe
+D:\DDS3\lorran\C#\ConceitoPOO-aula2\ConceitoPOO-aula2\obj\Debug\ConceitoPOO-aula2.pdb
