@@ -1,0 +1,16 @@
+D:\DDS3\lorran\C#\Calculadora\Calculadora\bin\Debug\net10.0-windows\Calculadora.exe
+D:\DDS3\lorran\C#\Calculadora\Calculadora\bin\Debug\net10.0-windows\Calculadora.deps.json
+D:\DDS3\lorran\C#\Calculadora\Calculadora\bin\Debug\net10.0-windows\Calculadora.runtimeconfig.json
+D:\DDS3\lorran\C#\Calculadora\Calculadora\bin\Debug\net10.0-windows\Calculadora.dll
+D:\DDS3\lorran\C#\Calculadora\Calculadora\bin\Debug\net10.0-windows\Calculadora.pdb
+D:\DDS3\lorran\C#\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.Form1.resources
+D:\DDS3\lorran\C#\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.csproj.GenerateResource.cache
+D:\DDS3\lorran\C#\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\DDS3\lorran\C#\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.AssemblyInfoInputs.cache
+D:\DDS3\lorran\C#\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.AssemblyInfo.cs
+D:\DDS3\lorran\C#\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+D:\DDS3\lorran\C#\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.dll
+D:\DDS3\lorran\C#\Calculadora\Calculadora\obj\Debug\net10.0-windows\refint\Calculadora.dll
+D:\DDS3\lorran\C#\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.pdb
+D:\DDS3\lorran\C#\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.genruntimeconfig.cache
+D:\DDS3\lorran\C#\Calculadora\Calculadora\obj\Debug\net10.0-windows\ref\Calculadora.dll
