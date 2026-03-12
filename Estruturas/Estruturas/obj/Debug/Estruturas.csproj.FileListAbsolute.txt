@@ -1,0 +1,7 @@
+D:\DDS3\lorran\C#\Estruturas\Estruturas\bin\Debug\Estruturas.exe.config
+D:\DDS3\lorran\C#\Estruturas\Estruturas\bin\Debug\Estruturas.exe
+D:\DDS3\lorran\C#\Estruturas\Estruturas\bin\Debug\Estruturas.pdb
+D:\DDS3\lorran\C#\Estruturas\Estruturas\obj\Debug\Estruturas.csproj.AssemblyReference.cache
+D:\DDS3\lorran\C#\Estruturas\Estruturas\obj\Debug\Estruturas.csproj.CoreCompileInputs.cache
+D:\DDS3\lorran\C#\Estruturas\Estruturas\obj\Debug\Estruturas.exe
+D:\DDS3\lorran\C#\Estruturas\Estruturas\obj\Debug\Estruturas.pdb
