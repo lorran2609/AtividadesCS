@@ -1,0 +1,11 @@
+D:\DDS3\lorran\C#\FormLoginPage\FormLoginPage\obj\Debug\FormLoginPage.csproj.AssemblyReference.cache
+D:\DDS3\lorran\C#\FormLoginPage\FormLoginPage\obj\Debug\FormLoginPage.Form1.resources
+D:\DDS3\lorran\C#\FormLoginPage\FormLoginPage\obj\Debug\FormLoginPage.F_TelaPrincipal.resources
+D:\DDS3\lorran\C#\FormLoginPage\FormLoginPage\obj\Debug\FormLoginPage.Properties.Resources.resources
+D:\DDS3\lorran\C#\FormLoginPage\FormLoginPage\obj\Debug\FormLoginPage.csproj.GenerateResource.cache
+D:\DDS3\lorran\C#\FormLoginPage\FormLoginPage\obj\Debug\FormLoginPage.csproj.CoreCompileInputs.cache
+D:\DDS3\lorran\C#\FormLoginPage\FormLoginPage\bin\Debug\FormLoginPage.exe.config
+D:\DDS3\lorran\C#\FormLoginPage\FormLoginPage\bin\Debug\FormLoginPage.exe
+D:\DDS3\lorran\C#\FormLoginPage\FormLoginPage\bin\Debug\FormLoginPage.pdb
+D:\DDS3\lorran\C#\FormLoginPage\FormLoginPage\obj\Debug\FormLoginPage.exe
+D:\DDS3\lorran\C#\FormLoginPage\FormLoginPage\obj\Debug\FormLoginPage.pdb
