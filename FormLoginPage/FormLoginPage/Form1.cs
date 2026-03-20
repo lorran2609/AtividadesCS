@@ -129,10 +129,24 @@ namespace FormLoginPage
 			pnlCadastro.Visible = false;
 		}
 
-        private void btnEntrar_Click(object sender, EventArgs e)
-        {
+		private void btnEntrar_Click(object sender, EventArgs e)
+		{
 			login();
-        }
-    }
+		}
+
+		private void checkBox1_CheckedChanged(object sender, EventArgs e)
+		{
+			if (checkBox1.Checked)
+			{
+				txtSenha.UseSystemPasswordChar = false;
+				txtConfirmSenha.UseSystemPasswordChar = false;
+			}
+			else 
+			{
+				txtSenha.UseSystemPasswordChar = true;
+				txtConfirmSenha.UseSystemPasswordChar = true;
+			}
+		}
+	}
 
 }

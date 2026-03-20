@@ -22,14 +22,12 @@ namespace FormLoginPage
 			pnlAdmin.Visible = true;
 			lblMensagem.Text = $"Logado como: {login}";
 		}
-
         private void btnLogOut_Click(object sender, EventArgs e)
         {
             Form1 form1 = new Form1();
             this.Hide();
             form1.ShowDialog();
         }
-
         private void btnExcluirUser_Click(object sender, EventArgs e)
         {
             if (pnlExcluir.Visible == false)
@@ -41,10 +39,33 @@ namespace FormLoginPage
                 pnlExcluir.Visible = false;
 			}
 		}
-
         private void btnExcluir_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Deseja realmente excluir o usuário?", "Confirmação", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            DialogResult Resultado = MessageBox.Show(
+                "Deseja realmente excluir o usuário?", 
+                "Confirmação", 
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Warning);
+
+            if(Resultado == DialogResult.Yes)
+            {
+                MessageBox.Show("Usuário excluído com sucesso.");
+			}
+            else
+            {
+                MessageBox.Show("Exclusão cancelada.");
+			}
+		}
+        private void btnFecharExcluir_Click(object sender, EventArgs e)
+        {
+            if (pnlExcluir.Visible == false)
+            {
+                pnlExcluir.Visible = true;
+            }
+            else 
+            {
+                pnlExcluir.Visible = false;
+			}
 		}
     }
 }
