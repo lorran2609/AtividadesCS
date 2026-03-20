@@ -1,0 +1,10 @@
+D:\DDS3\lorran\C#\FormsPilha\FormsPilha\bin\Debug\FormsPilha.exe.config
+D:\DDS3\lorran\C#\FormsPilha\FormsPilha\bin\Debug\FormsPilha.exe
+D:\DDS3\lorran\C#\FormsPilha\FormsPilha\bin\Debug\FormsPilha.pdb
+D:\DDS3\lorran\C#\FormsPilha\FormsPilha\obj\Debug\FormsPilha.csproj.AssemblyReference.cache
+D:\DDS3\lorran\C#\FormsPilha\FormsPilha\obj\Debug\FormsPilha.Form1.resources
+D:\DDS3\lorran\C#\FormsPilha\FormsPilha\obj\Debug\FormsPilha.Properties.Resources.resources
+D:\DDS3\lorran\C#\FormsPilha\FormsPilha\obj\Debug\FormsPilha.csproj.GenerateResource.cache
+D:\DDS3\lorran\C#\FormsPilha\FormsPilha\obj\Debug\FormsPilha.csproj.CoreCompileInputs.cache
+D:\DDS3\lorran\C#\FormsPilha\FormsPilha\obj\Debug\FormsPilha.exe
+D:\DDS3\lorran\C#\FormsPilha\FormsPilha\obj\Debug\FormsPilha.pdb
